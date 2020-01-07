@@ -31,6 +31,14 @@ of Contents" to an H1, and remove the title of the document" -->
 
 <!-- markdown-toc end -->
 
+<!-- References
+23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:
+                https://github.com/vilmibm/tildemush/blob/master/server/tmserver/witch_header.hy
+23:29 <vilmibm> there are also functioning WITCH examples in the test suite, for example,
+                https://github.com/vilmibm/tildemush/blob/master/server/tmserver/tests/game_object_test.py#L160
+23:30 <vilmibm> (why a common test game object is a horse named Snoozy is a memory I have since lost)
+-->
+
 # Quick start
 
 This section is for people who have a [tilde.town](https://tilde.town)

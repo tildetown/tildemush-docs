@@ -52,9 +52,7 @@ about tildemush, but need a few commands to get them started.
 * **Caution !!** - Cautions signify that damage may occur
 * *Example* - Examples provide a visual reference of how a procedure would be performed
 * `Inline code` - Inline code signifies package names, filenames, commands, and keyboard keys
-* ```
-Code block - Code blocks signify file contents, or an interface element
-```
+* ```Code block - Code blocks signify file contents, or an interface element```
 
 ## Requirements
 

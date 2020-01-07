@@ -1,9 +1,12 @@
 # tildemush handbook
 
-This handbook will serve as a reference for [tilde.town](https://tilde.town)'s tildemush virtual community. It is
-intended for new and experienced users. This handbook will provide an
-introduction to tildemush, understanding the interface, using
-tildemush, and the WITCH scripting language.
+This handbook will serve as a reference for [tilde.town](https://tilde.town)'s
+tildemush virtual community, lead by [vilmibm](https://tilde.town/~vilmibm/).
+It is intended for new and experienced users who have
+an account on [tilde.town](https://tilde.town). This
+handbook will provide an introduction to tildemush,
+understanding the interface, using tildemush, and the
+WITCH scripting language.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
@@ -28,14 +31,19 @@ tildemush, and the WITCH scripting language.
 
 # Quick start
 
-This section is for people who are comfortable with what they know
-about tildemush, but need a few commands to get them started.
+This section is for people who have a [tilde.town](https://tilde.town)
+account, and are comfortable with what they know about tildemush, but
+need a few commands to get them started.
 
 1. `ssh` into [tilde.town](https://tilde.town)
 
 2. Run `tmclient`
 
 3. Use the `up-arrow`, `down-arrow`, and `enter-key` to login or register
+
+**Caution !!** - tildemush's database may be wiped, because it is
+still under development. This means that anything you create, may be
+deleted.
 
 # What is tildemush?
 

@@ -1,17 +1,19 @@
 # tildemush handbook
 
-This handbook will serve as a reference for [tilde.town](https://tilde.town)'s
-tildemush virtual community, lead by [vilmibm](https://tilde.town/~vilmibm/).
-It is intended for new and experienced users who have
-an account on [tilde.town](https://tilde.town). This
-handbook will provide an introduction to tildemush,
-understanding the interface, using tildemush, and the
-WITCH scripting language.
+This handbook will serve as a reference for
+[tilde.town](https://tilde.town)'s tildemush virtual community, lead
+by [vilmibm](https://tilde.town/~vilmibm/).  It is intended for new
+and experienced users who have an account on
+[tilde.town](https://tilde.town). This handbook will provide an
+introduction to tildemush, understanding the interface, using
+tildemush, and the WITCH scripting language.
+
+<!-- Note to self: Everytime the TOC is generated, change the "Table
+of Contents" to an H1, and remove the title of the document" -->
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
+# Table of Contents
 
-- [tildemush handbook](#tildemush-handbook)
 - [Quick start](#quick-start)
 - [What is tildemush?](#what-is-tildemush)
     - [Description](#description)

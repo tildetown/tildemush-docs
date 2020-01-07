@@ -37,3 +37,11 @@ interface, using tildemush, and the WITCH scripting language.
 ### Platforms
 
 ### Software
+
+## Starting tildemush
+
+# Understanding the interface
+
+# Using tildemush
+
+# Scripting with WITCH

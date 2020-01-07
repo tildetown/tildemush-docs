@@ -37,6 +37,8 @@ of Contents" to an H1, and remove the title of the document" -->
 23:29 <vilmibm> there are also functioning WITCH examples in the test suite, for example,
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/tests/game_object_test.py#L160
 23:30 <vilmibm> (why a common test game object is a horse named Snoozy is a memory I have since lost)
+23:31 <vilmibm> ah there are a bunch of WITCH objects in here! just search the page for "incantation"
+                https://github.com/vilmibm/tildemush/blob/master/server/tmserver/tests/async_test.py
 -->
 
 # Quick start

@@ -188,6 +188,10 @@ The inventory box will display the following:
 
 TODO
 
+#### To access the WITCH tab
+
+1. Press `F2`
+
 ### Element a here
 
 TODO
@@ -199,6 +203,10 @@ TODO
 ## WORLDMAP tab
 
 TODO
+
+#### To access the WORLDMAP tab
+
+1. Press `F3`
 
 ### Element a here
 
@@ -212,6 +220,10 @@ TODO
 
 TODO
 
+#### To access the SETTINGS tab
+
+1. Press `F4`
+
 ### Element a here
 
 TODO
@@ -224,12 +236,22 @@ TODO
 
 TODO
 
+### Quitting tildemush
+
+TODO
+
+#### To quit tildemush
+
+1. Press `F9`
+
 # Using tildemush
 
+TODO
 Section outline
 
 # Scripting with WITCH
 
+TODO
 Section outline
 
 # More information

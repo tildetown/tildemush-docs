@@ -22,9 +22,21 @@ tildemush, and the WITCH scripting language.
         - [To start tildemush](#to-start-tildemush)
 - [Understanding the interface](#understanding-the-interface)
     - [MAIN tab](#main-tab)
+        - [Accessing the MAIN tab](#accessing-the-main-tab)
+            - [To access the MAIN tab](#to-access-the-main-tab)
+        - [The chatbox](#the-chatbox)
+        - [The location box](#the-location-box)
+        - [The map box](#the-map-box)
+        - [The inventory box](#the-inventory-box)
     - [WITCH tab](#witch-tab)
+        - [Element a here](#element-a-here)
+        - [Element b here](#element-b-here)
     - [WORLDMAP tab](#worldmap-tab)
+        - [Element a here](#element-a-here-1)
+        - [Element b here](#element-b-here-1)
     - [SETTINGS tab](#settings-tab)
+        - [Element a here](#element-a-here-2)
+        - [Element b here](#element-b-here-2)
     - [QUIT tab](#quit-tab)
 - [Using tildemush](#using-tildemush)
 - [Scripting with WITCH](#scripting-with-witch)
@@ -78,11 +90,10 @@ with. tildemush provides a separate tab for scripting in WITCH.
 
 This section consists of the following topics:
 
-- [Conventions used in this handbook](#conventions-used-in-this-handbook) - [Requirements](#requirements)
-    - [Platforms](#platforms)
-    - [Software](#software)
-- [Quick start](#quick-start)
+- [Conventions used in this handbook](#conventions-used-in-this-handbook)
+- [Requirements](#requirements)
 - [Starting tildemush](#starting-tildemush)
+    - [To start tildemush](#to-start-tildemush)
 
 ## Conventions used in this handbook
 
@@ -123,17 +134,65 @@ any time.
 
 This section consists of the following topics:
 
-- [MAIN tab](#main-tab)
-- [WITCH tab](#witch-tab)
-- [WORLDMAP tab](#worldmap-tab)
-- [SETTINGS tab](#settings-tab)
-- [QUIT tab](#quit-tab)
+[TODO: UPDATE THIS]
 
 ## MAIN tab
 
-TODO
+The main tab consists of:
+
+* The chat box
+* The location box
+* The map box
+* The inventory box
+
+### Accessing the MAIN tab
+
+The MAIN tab can be accessed from any of the tabs.
+
+#### To access the MAIN tab
+
+1. Press `F1`
+
+### The chatbox
+
+The chat box will display the following:
+
+* User messages
+* Events
+* Actions from users
+* Actions from objects
+* Responses from objects
+
+### The location box
+
+The location box will display the following:
+
+* Your current location's name
+* Your current location's description
+* Your current location's user-created objects
+
+### The map box
+
+The map box will display the following:
+
+* [TODO: Verify if these are the places you have visited or all places]
+
+### The inventory box
+
+The inventory box will display the following:
+
+* Number of objects you have
+* Name(s) of objects you have
 
 ## WITCH tab
+
+TODO
+
+### Element a here
+
+TODO
+
+### Element b here
 
 TODO
 
@@ -141,7 +200,23 @@ TODO
 
 TODO
 
+### Element a here
+
+TODO
+
+### Element b here
+
+TODO
+
 ## SETTINGS tab
+
+TODO
+
+### Element a here
+
+TODO
+
+### Element b here
 
 TODO
 
@@ -151,6 +226,10 @@ TODO
 
 # Using tildemush
 
+Section outline
+
 # Scripting with WITCH
+
+Section outline
 
 # More information

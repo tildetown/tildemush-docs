@@ -2,8 +2,8 @@
 
 This handbook will serve as a reference for
 [tilde.town](https://tilde.town)'s tildemush virtual community, lead
-by [vilmibm](https://tilde.town/~vilmibm/).  It is intended for new
-and experienced users who have an account on
+by [vilmibm](https://tilde.town/~vilmibm/). It is intended for new and
+experienced users who have an account on
 [tilde.town](https://tilde.town). This handbook will provide an
 introduction to tildemush, understanding the interface, using
 tildemush, and the WITCH scripting language.
@@ -95,20 +95,13 @@ This section consists of the following topics:
 
 ## Requirements
 
-TODO
-
-### Platforms
-
-TODO
-
-### Software
-
-TODO
+* A [tilde.town](https://tilde.town) account
 
 ## Starting tildemush
 
 Starting tildemush will run the software required to connect to the
-tildemush server that exists on [tilde.town](https://tilde.town).
+tildemush virtual community that exists on
+[tilde.town](https://tilde.town).
 
 ### To start tildemush
 

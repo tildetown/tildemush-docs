@@ -18,11 +18,14 @@ tildemush, and the WITCH scripting language.
 - [Getting started](#getting-started)
     - [Conventions used in this handbook](#conventions-used-in-this-handbook)
     - [Requirements](#requirements)
-        - [Platforms](#platforms)
-        - [Software](#software)
     - [Starting tildemush](#starting-tildemush)
         - [To start tildemush](#to-start-tildemush)
 - [Understanding the interface](#understanding-the-interface)
+    - [MAIN tab](#main-tab)
+    - [WITCH tab](#witch-tab)
+    - [WORLDMAP tab](#worldmap-tab)
+    - [SETTINGS tab](#settings-tab)
+    - [QUIT tab](#quit-tab)
 - [Using tildemush](#using-tildemush)
 - [Scripting with WITCH](#scripting-with-witch)
 - [More information](#more-information)
@@ -75,8 +78,7 @@ with. tildemush provides a separate tab for scripting in WITCH.
 
 This section consists of the following topics:
 
-- [Conventions used in this handbook](#conventions-used-in-this-handbook)
-- [Requirements](#requirements)
+- [Conventions used in this handbook](#conventions-used-in-this-handbook) - [Requirements](#requirements)
     - [Platforms](#platforms)
     - [Software](#software)
 - [Quick start](#quick-start)
@@ -119,19 +121,33 @@ any time.
 
 # Understanding the interface
 
-<!-- messy notes for this section begin here
-tildemush runs on the command line and contains the following
-tabs:
+This section consists of the following topics:
 
-* MAIN
-* WITCH
-* WORLDMAP
-* SETTINGS
-* Chatroom
-*
-with usernames, but it also has different areas users can exist
-in. Each area contains users and objects.
--->
+- [MAIN tab](#main-tab)
+- [WITCH tab](#witch-tab)
+- [WORLDMAP tab](#worldmap-tab)
+- [SETTINGS tab](#settings-tab)
+- [QUIT tab](#quit-tab)
+
+## MAIN tab
+
+TODO
+
+## WITCH tab
+
+TODO
+
+## WORLDMAP tab
+
+TODO
+
+## SETTINGS tab
+
+TODO
+
+## QUIT tab
+
+TODO
 
 # Using tildemush
 

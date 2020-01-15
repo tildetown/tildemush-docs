@@ -96,9 +96,9 @@ This section consists of the following topics:
 
 ## Conventions used in this handbook
 
-* **Note ++** - Notes signify additional information
-* **Tip >>** - Tips signify an alternate procedure for completing a step
-* **Caution !!** - Cautions signify that damage or loss of data may occur
+* **Note** - Notes signify additional information
+* **Tip** - Tips signify an alternate procedure for completing a step
+* **Caution** - Cautions signify that damage or loss of data may occur
 * **Example** - Examples provide a visual reference of how a procedure would be performed
 * `Inline code` - Inline code signifies package names, filenames, commands, and keyboard keys
 * ```Code block - Code blocks signify file contents, or an interface element```
@@ -201,8 +201,8 @@ TODO
 
 # Using tildemush
 
-TODO: PC
-TODO: Update this as it progresses
+TODO: WIIFM
+TODO: Update this section outline as the headings are made
 
 - [Starting tildemush](#starting-tildemush)
     - [To start tildemush](#to-start-tildemush)
@@ -215,7 +215,7 @@ tildemush virtual community that exists on
 
 ### To start tildemush
 
-**Caution !!** - Before continuing, you should know that tildemush's
+**Caution** - Before continuing, you should know that tildemush's
 database may be wiped at any time, because it is still under
 development. This means that anything you create, may be deleted at
 any time.
@@ -263,7 +263,7 @@ The MAIN tab can be accessed from any of the tabs.
 1. Hold `Shift` and `Ctrl`
 2. Press `v` while holding down `Shift` and `Ctrl`
 
-**Tip >>** - Your terminal emulator may allow you to paste text by right-clicking, and then selecting `Paste`.
+**Tip** - Your terminal emulator may allow you to paste text by right-clicking, and then selecting `Paste`.
 
 ## Accessing the WITCH tab
 

@@ -229,6 +229,36 @@ The MAIN tab can be accessed from any of the tabs.
 
 1. Press `F1`
 
+## Sending a message to all users in your current location
+
+[TODO]
+
+### To send a message to all users in your current location
+
+1. Type your message
+2. Press `Enter`
+
+## Copying text
+
+[TODO]
+
+### To copy text
+
+1. Highlight the text you want to copy using your mouse
+2. Hold `Shift` and `Ctrl`
+3. Press `c` while holding down `Shift` and `Ctrl`
+
+## Pasting text
+
+[TODO]
+
+### To paste text
+
+1. Hold `Shift` and `Ctrl`
+2. Press `v` while holding down `Shift` and `Ctrl`
+
+**Tip >>** - Your terminal emulator may allow you to paste text by right-clicking, and then selecting `Paste`.
+
 ## Accessing the WITCH tab
 
 [TODO]

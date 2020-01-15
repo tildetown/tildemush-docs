@@ -9,20 +9,16 @@ introduction to tildemush, understanding the interface, using
 tildemush, and the WITCH scripting language.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-# Table of Contents
+**Table of Contents**
 
+- [tildemush handbook](#tildemush-handbook)
 - [What is tildemush?](#what-is-tildemush)
-    - [Describing tildemush](#describing-tildemush)
-    - [Creating tildemush](#creating-tildemush)
+- [Purpose and Goals](#purpose-and-goals)
 - [Getting started](#getting-started)
     - [Conventions used in this handbook](#conventions-used-in-this-handbook)
     - [Requirements](#requirements)
-    - [Starting tildemush](#starting-tildemush)
-        - [To start tildemush](#to-start-tildemush)
 - [Understanding the interface](#understanding-the-interface)
     - [MAIN tab](#main-tab)
-        - [Accessing the MAIN tab](#accessing-the-main-tab)
-            - [To access the MAIN tab](#to-access-the-main-tab)
         - [The chatbox](#the-chatbox)
         - [The location box](#the-location-box)
         - [The map box](#the-map-box)
@@ -38,6 +34,18 @@ tildemush, and the WITCH scripting language.
         - [Element b here](#element-b-here-2)
     - [QUIT tab](#quit-tab)
 - [Using tildemush](#using-tildemush)
+    - [Starting tildemush](#starting-tildemush)
+        - [To start tildemush](#to-start-tildemush)
+    - [Accessing the MAIN tab](#accessing-the-main-tab)
+        - [To access the MAIN tab](#to-access-the-main-tab)
+    - [Accessing the WITCH tab](#accessing-the-witch-tab)
+        - [To access the WITCH tab](#to-access-the-witch-tab)
+    - [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
+        - [To access the WORLDMAP tab](#to-access-the-worldmap-tab)
+    - [Accessing the SETTINGS tab](#accessing-the-settings-tab)
+        - [To access the SETTINGS tab](#to-access-the-settings-tab)
+    - [Quitting tildemush](#quitting-tildemush)
+        - [To quit tildemush](#to-quit-tildemush)
 - [Scripting with WITCH](#scripting-with-witch)
 - [More information](#more-information)
 
@@ -60,13 +68,6 @@ H1, and remove the title of the document"
 
 # What is tildemush?
 
-This section consists of the following topics:
-
-- [Describing tildemush](#describing-tildemush)
-- [Creating tildemush](#creating-tildemush)
-
-## Describing tildemush
-
 tildemush is a command line-, text-based virtual community used for
 chatting, creating, roleplaying, games, or anything a user can think
 of. Currently, tildemush hosted on [tilde.town](https://tilde.town).
@@ -81,7 +82,7 @@ tildemush also has its own scripting language called WITCH. This
 language is used to create in-game objects, which users can interact
 with. tildemush provides a separate tab for scripting in WITCH.
 
-## Creating tildemush
+# Purpose and Goals
 
 [For vilmibm, if they are comfortable with filling this out. Go all out!]
 
@@ -91,8 +92,6 @@ This section consists of the following topics:
 
 - [Conventions used in this handbook](#conventions-used-in-this-handbook)
 - [Requirements](#requirements)
-- [Starting tildemush](#starting-tildemush)
-    - [To start tildemush](#to-start-tildemush)
 
 ## Conventions used in this handbook
 
@@ -109,26 +108,6 @@ This section consists of the following topics:
 
 * A [tilde.town](https://tilde.town) account
 
-## Starting tildemush
-
-Starting tildemush will run the software required to connect to the
-tildemush virtual community that exists on
-[tilde.town](https://tilde.town).
-
-### To start tildemush
-
-**Caution !!** - Before continuing, you should know that tildemush's
-database may be wiped at any time, because it is still under
-development. This means that anything you create, may be deleted at
-any time.
-
-1. `ssh` into [tilde.town](https://tilde.town)
-
-2. Run `tmclient`
-
-3. Use the `up-arrow`, `down-arrow`, and `enter-key` to login or
-   create an account
-
 # Understanding the interface
 
 This section consists of the following topics:
@@ -143,14 +122,6 @@ The main tab consists of:
 * The location box
 * The map box
 * The inventory box
-
-### Accessing the MAIN tab
-
-The MAIN tab can be accessed from any of the tabs.
-
-#### To access the MAIN tab
-
-1. Press `F1`
 
 ### The chatbox
 
@@ -187,10 +158,6 @@ The inventory box will display the following:
 
 TODO
 
-#### To access the WITCH tab
-
-1. Press `F2`
-
 ### Element a here
 
 TODO
@@ -202,10 +169,6 @@ TODO
 ## WORLDMAP tab
 
 TODO
-
-#### To access the WORLDMAP tab
-
-1. Press `F3`
 
 ### Element a here
 
@@ -219,10 +182,6 @@ TODO
 
 TODO
 
-#### To access the SETTINGS tab
-
-1. Press `F4`
-
 ### Element a here
 
 TODO
@@ -235,18 +194,73 @@ TODO
 
 TODO
 
-### Quitting tildemush
-
-TODO
-
-#### To quit tildemush
-
-1. Press `F9`
-
 # Using tildemush
 
+TODO: PC
+TODO: Update this as it progresses
+
+- [Starting tildemush](#starting-tildemush)
+    - [To start tildemush](#to-start-tildemush)
+
+## Starting tildemush
+
+Starting tildemush will run the software required to connect to the
+tildemush virtual community that exists on
+[tilde.town](https://tilde.town).
+
+### To start tildemush
+
+**Caution !!** - Before continuing, you should know that tildemush's
+database may be wiped at any time, because it is still under
+development. This means that anything you create, may be deleted at
+any time.
+
+1. `ssh` into [tilde.town](https://tilde.town)
+
+2. Run `tmclient`
+
+3. Use the `up-arrow`, `down-arrow`, and `enter-key` to login or
+   create an account
+
+## Accessing the MAIN tab
+
+The MAIN tab can be accessed from any of the tabs.
+
+### To access the MAIN tab
+
+1. Press `F1`
+
+## Accessing the WITCH tab
+
+[TODO]
+
+### To access the WITCH tab
+
+1. Press `F2`
+
+## Accessing the WORLDMAP tab
+
+[TODO]
+
+### To access the WORLDMAP tab
+
+1. Press `F3`
+
+## Accessing the SETTINGS tab
+
+[TODO]
+
+### To access the SETTINGS tab
+
+1. Press `F4`
+
+## Quitting tildemush
+
 TODO
-Section outline
+
+### To quit tildemush
+
+1. Press `F9`
 
 # Scripting with WITCH
 

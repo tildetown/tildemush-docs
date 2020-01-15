@@ -12,9 +12,8 @@ If you are looking for a testing or developing environment, see
 [vilmibm](https://github.com/vilmibm)'s notes [here](https://github.com/vilmibm/tildemush)
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
+# Table of Contents
 
-- [tildemush handbook](#tildemush-handbook)
 - [What is tildemush?](#what-is-tildemush)
 - [Purpose and Goals](#purpose-and-goals)
 - [Getting started](#getting-started)
@@ -161,7 +160,9 @@ The inventory box will display the following:
 
 ## WITCH tab
 
-TODO
+The WITCH tab consists of:
+
+TODO: List elements
 
 ### Element a here
 
@@ -173,7 +174,9 @@ TODO
 
 ## WORLDMAP tab
 
-TODO
+The WORLDMAP tab consists of:
+
+TODO: List elements
 
 ### Element a here
 
@@ -185,7 +188,9 @@ TODO
 
 ## SETTINGS tab
 
-TODO
+The SETTINGS tab consists of:
+
+TODO: List elements
 
 ### Element a here
 
@@ -197,7 +202,8 @@ TODO
 
 ## QUIT tab
 
-TODO
+The QUIT tab does not contain elements. It serves as a reminder of how
+to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) topic.
 
 # Using tildemush
 
@@ -291,7 +297,7 @@ The MAIN tab can be accessed from any of the tabs.
 
 ## Quitting tildemush
 
-TODO
+Quitting tildemush will bring you back to your normal shell session on tilde.town.
 
 ### To quit tildemush
 
@@ -299,7 +305,7 @@ TODO
 
 # Scripting with WITCH
 
-TODO
-Section outline
+TODO: WIIFM
+TODO: Section outline
 
 # More information

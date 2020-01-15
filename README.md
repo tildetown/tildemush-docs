@@ -51,11 +51,6 @@ tildemush, and the WITCH scripting language.
 
 <!-- markdown-toc end -->
 
-<!-- Note to self:
-Every time the TOC is generated, change the "Table of Contents" to an
-H1, and remove the title of the document"
--->
-
 <!-- References
 23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/witch_header.hy
@@ -112,7 +107,11 @@ This section consists of the following topics:
 
 This section consists of the following topics:
 
-[TODO: UPDATE THIS]
+- [MAIN tab](#main-tab)
+- [WITCH tab](#witch-tab)
+- [WORLDMAP tab](#worldmap-tab)
+- [SETTINGS tab](#settings-tab)
+- [QUIT tab](#quit-tab)
 
 ## MAIN tab
 

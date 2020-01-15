@@ -8,6 +8,8 @@ experienced users who have an account on
 introduction to tildemush, understanding the interface, using
 tildemush, and the WITCH scripting language.
 
+If you are looking for a testing or developing environment, see [vilmibm](https://github.com/vilmibm)'s notes [here](https://github.com/vilmibm/tildemush)
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 

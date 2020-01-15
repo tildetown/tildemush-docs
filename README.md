@@ -75,10 +75,7 @@ tildemush looks like a chat room with elements such as:
 * Your location name
 * A list user-created objects that exist in your location
 * Your inventory
-
-tildemush also has its own scripting language called WITCH. This
-language is used to create in-game objects, which users can interact
-with. tildemush provides a separate tab for scripting in WITCH.
+* A scripting tab for creating objects
 
 # Purpose and Goals
 

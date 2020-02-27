@@ -11,7 +11,6 @@ tildemush, and the WITCH scripting language.
 If you are looking for a testing or developing environment, see
 [vilmibm](https://github.com/vilmibm)'s notes [here](https://github.com/vilmibm/tildemush)
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 # Table of Contents
 
 - [What is tildemush?](#what-is-tildemush)
@@ -56,8 +55,6 @@ If you are looking for a testing or developing environment, see
         - [To quit tildemush](#to-quit-tildemush)
 - [Scripting with WITCH](#scripting-with-witch)
 - [More information](#more-information)
-
-<!-- markdown-toc end -->
 
 <!-- References
 23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:

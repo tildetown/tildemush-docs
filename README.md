@@ -85,7 +85,7 @@ tildemush looks like a chat room with elements such as:
 
 # Getting started
 
-This section consists of the following topics:
+This section consists of the following subsections:
 
 - [Conventions used in this manual](#conventions-used-in-this-manual)
 - [Requirements](#requirements)
@@ -99,7 +99,7 @@ This section consists of the following topics:
 * `Inline code` - Inline code signifies package names, filenames, commands, and keyboard keys
 * ```Code block - Code blocks signify file contents, or an interface element```
 * Section - Heading 1s are referred to as "Sections"
-* Topics - Heading 2s, 3s, etc. are referred to as "Topics"
+* subsections - Heading 2s, 3s, etc. are referred to as "subsections"
 
 ## Requirements
 
@@ -107,7 +107,7 @@ This section consists of the following topics:
 
 # Understanding the interface
 
-This section consists of the following topics:
+This section consists of the following subsections:
 
 - [MAIN tab](#main-tab)
 - [WITCH tab](#witch-tab)
@@ -200,7 +200,7 @@ TODO
 ## QUIT tab
 
 The QUIT tab does not contain elements. It serves as a reminder of how
-to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) topic.
+to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 
 # Using tildemush
 

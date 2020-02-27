@@ -1,10 +1,10 @@
-# tildemush handbook
+# tildemush manual
 
-This handbook will serve as a reference for
+This manual will serve as a reference for
 [tilde.town](https://tilde.town)'s tildemush virtual community, lead
 by [vilmibm](https://tilde.town/~vilmibm/). It is intended for new and
 experienced users who have an account on
-[tilde.town](https://tilde.town). This handbook will provide an
+[tilde.town](https://tilde.town). This manual will provide an
 introduction to tildemush, understanding the interface, using
 tildemush, and the WITCH scripting language.
 
@@ -17,7 +17,7 @@ If you are looking for a testing or developing environment, see
 - [What is tildemush?](#what-is-tildemush)
 - [Purpose and Goals](#purpose-and-goals)
 - [Getting started](#getting-started)
-    - [Conventions used in this handbook](#conventions-used-in-this-handbook)
+    - [Conventions used in this manual](#conventions-used-in-this-manual)
     - [Requirements](#requirements)
 - [Understanding the interface](#understanding-the-interface)
     - [MAIN tab](#main-tab)
@@ -90,10 +90,10 @@ tildemush looks like a chat room with elements such as:
 
 This section consists of the following topics:
 
-- [Conventions used in this handbook](#conventions-used-in-this-handbook)
+- [Conventions used in this manual](#conventions-used-in-this-manual)
 - [Requirements](#requirements)
 
-## Conventions used in this handbook
+## Conventions used in this manual
 
 * **Note** - Notes signify additional information
 * **Tip** - Tips signify an alternate procedure for completing a step

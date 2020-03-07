@@ -11,10 +11,10 @@ tildemush, and the WITCH scripting language.
 If you are looking for a testing or developing environment, see
 [vilmibm](https://github.com/vilmibm)'s notes [here](https://github.com/vilmibm/tildemush)
 
-# Table of Contents
+# Table of contents
 
 - [What is tildemush?](#what-is-tildemush)
-- [Purpose and Goals](#purpose-and-goals)
+- [Purpose and goals](#purpose-and-goals)
 - [Getting started](#getting-started)
     - [Conventions used in this manual](#conventions-used-in-this-manual)
     - [Requirements](#requirements)
@@ -79,7 +79,7 @@ tildemush looks like a chat room with elements such as:
 * Your inventory
 * A scripting tab for creating objects
 
-# Purpose and Goals
+# Purpose and goals
 
 [For vilmibm, if they are comfortable with filling this out. Go all out!]
 

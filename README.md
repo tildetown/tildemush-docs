@@ -1,4 +1,4 @@
-# tildemush manual
+# Tildemush documentation
 
 This manual will serve as a reference for
 [tilde.town](https://tilde.town)'s tildemush virtual community, lead

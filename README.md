@@ -105,6 +105,8 @@ This section consists of the following subsections:
 
 # Understanding the interface
 
+This section will introduce you to each interface tab, and each element inside of each tab.
+
 This section consists of the following subsections:
 
 - [MAIN tab](#main-tab)

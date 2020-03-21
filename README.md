@@ -32,19 +32,20 @@ If you are looking for a testing or developing environment, see
         - [Direction names](#direction-names)
     - [SETTINGS tab](#settings-tab)
     - [QUIT tab](#quit-tab)
-- [Using tildemush](#using-tildemush)
-    - [Starting tildemush](#starting-tildemush)
-        - [To start tildemush](#to-start-tildemush)
+- [Accessing tabs](#accessing-tabs)
     - [Accessing the MAIN tab](#accessing-the-main-tab)
         - [To access the MAIN tab](#to-access-the-main-tab)
-    - [Sending a message to all users in your current location](#sending-a-message-to-all-users-in-your-current-location)
-        - [To send a message to all users in your current location](#to-send-a-message-to-all-users-in-your-current-location)
     - [Accessing the WITCH tab](#accessing-the-witch-tab)
         - [To access the WITCH tab](#to-access-the-witch-tab)
     - [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
         - [To access the WORLDMAP tab](#to-access-the-worldmap-tab)
     - [Accessing the SETTINGS tab](#accessing-the-settings-tab)
         - [To access the SETTINGS tab](#to-access-the-settings-tab)
+- [Using tildemush](#using-tildemush)
+    - [Starting tildemush](#starting-tildemush)
+        - [To start tildemush](#to-start-tildemush)
+    - [Sending a message to all users in your current location](#sending-a-message-to-all-users-in-your-current-location)
+        - [To send a message to all users in your current location](#to-send-a-message-to-all-users-in-your-current-location)
     - [Quitting tildemush](#quitting-tildemush)
         - [To quit tildemush](#to-quit-tildemush)
 - [Extra tips](#extra-tips)
@@ -195,6 +196,42 @@ The SETTINGS tab is under construction.
 The QUIT tab does not contain elements. It serves as a reminder of how
 to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 
+# Accessing tabs
+
+TODO
+
+## Accessing the MAIN tab
+
+The MAIN tab can be accessed from any of the tabs.
+
+### To access the MAIN tab
+
+1. Press `F1`
+
+## Accessing the WITCH tab
+
+[TODO]
+
+### To access the WITCH tab
+
+1. Press `F2`
+
+## Accessing the WORLDMAP tab
+
+[TODO]
+
+### To access the WORLDMAP tab
+
+1. Press `F3`
+
+## Accessing the SETTINGS tab
+
+[TODO]
+
+### To access the SETTINGS tab
+
+1. Press `F4`
+
 # Using tildemush
 
 TODO: WIIFM
@@ -224,14 +261,6 @@ any time.
 3. Use the `up-arrow`, `down-arrow`, and `enter-key` to login or
    create an account
 
-## Accessing the MAIN tab
-
-The MAIN tab can be accessed from any of the tabs.
-
-### To access the MAIN tab
-
-1. Press `F1`
-
 ## Sending a message to all users in your current location
 
 The MAIN tab allows you to interact with users and objects. The MAIN tab is where you will communicate with other users.
@@ -241,30 +270,6 @@ The MAIN tab allows you to interact with users and objects. The MAIN tab is wher
 1. Ensure you are in the MAIN tab
 2. Type your message
 3. Press `Enter`
-
-## Accessing the WITCH tab
-
-[TODO]
-
-### To access the WITCH tab
-
-1. Press `F2`
-
-## Accessing the WORLDMAP tab
-
-[TODO]
-
-### To access the WORLDMAP tab
-
-1. Press `F3`
-
-## Accessing the SETTINGS tab
-
-[TODO]
-
-### To access the SETTINGS tab
-
-1. Press `F4`
 
 ## Quitting tildemush
 

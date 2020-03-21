@@ -232,22 +232,24 @@ The MAIN tab can be accessed from any of the tabs.
 
 ## Sending a message to all users in your current location
 
-[TODO]
+The MAIN tab allows you to interact with users and objects. The MAIN tab is where you will communicate with other users.
 
 ### To send a message to all users in your current location
 
-1. Type your message
-2. Press `Enter`
+1. Ensure you are in the MAIN tab
+2. Type your message
+3. Press `Enter`
 
 ## Copying text
 
-[TODO]
+There are various ways to highlight text in the terminal, one of the easiest ways is to use your mouse.
 
 ### To copy text
 
 1. Highlight the text you want to copy using your mouse
-2. Hold `Shift` and `Ctrl`
-3. Press `c` while holding down `Shift` and `Ctrl`
+2. Hold the `Shift` and `Ctrl` keys
+3. Press `c`
+4. Release the `Shift` and `Ctrl` keys
 
 ## Pasting text
 

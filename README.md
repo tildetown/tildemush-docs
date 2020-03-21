@@ -25,14 +25,12 @@ If you are looking for a testing or developing environment, see
         - [The map box](#the-map-box)
         - [The inventory box](#the-inventory-box)
     - [WITCH tab](#witch-tab)
-        - [Element a here](#element-a-here)
-        - [Element b here](#element-b-here)
+        - [The object pane](#the-object-pane)
+        - [The object-scripting pane](#the-object-scripting-pane)
     - [WORLDMAP tab](#worldmap-tab)
-        - [Element a here](#element-a-here-1)
-        - [Element b here](#element-b-here-1)
+        - [Area blocks](#area-blocks)
+        - [Direction names](#direction-names)
     - [SETTINGS tab](#settings-tab)
-        - [Element a here](#element-a-here-2)
-        - [Element b here](#element-b-here-2)
     - [QUIT tab](#quit-tab)
 - [Using tildemush](#using-tildemush)
     - [Starting tildemush](#starting-tildemush)
@@ -81,7 +79,7 @@ tildemush looks like a chat room with elements such as:
 
 # Purpose and goals
 
-[For vilmibm, if they are comfortable with filling this out. Go all out!]
+TODO:[For vilmibm, if they are comfortable with filling this out. Go all out!]
 
 # Getting started
 
@@ -146,7 +144,7 @@ The location box will display the following:
 
 The map box will display the following:
 
-* [TODO: Verify if these are the places you have visited or all places]
+* TODO: Verify if these are the places you have visited or all places that connect to the current location
 
 ### The inventory box
 
@@ -159,43 +157,35 @@ The inventory box will display the following:
 
 The WITCH tab consists of:
 
-TODO: List elements
+* The object pane
+* The object-scripting pane
 
-### Element a here
+### The object pane
 
-TODO
+The object pane displays the name and permissions of the object that is being edited.
 
-### Element b here
+### The object-scripting pane
 
-TODO
+The object-scripting pane displays the scripts of the object that is being edited. This is the area you will edit the functionality of an object.
 
 ## WORLDMAP tab
 
 The WORLDMAP tab consists of:
 
-TODO: List elements
+* Area blocks
+* Direction names
 
-### Element a here
+### Area blocks
 
-TODO
+Area blocks are user-created locations you can travel to in the tildemush world.
 
-### Element b here
+### Direction names
 
-TODO
+Direction names are user-created names that a user can type to travel to different area blocks.
 
 ## SETTINGS tab
 
-The SETTINGS tab consists of:
-
-TODO: List elements
-
-### Element a here
-
-TODO
-
-### Element b here
-
-TODO
+The SETTINGS tab is under construction.
 
 ## QUIT tab
 
@@ -266,7 +256,10 @@ The MAIN tab can be accessed from any of the tabs.
 1. Hold `Shift` and `Ctrl`
 2. Press `v` while holding down `Shift` and `Ctrl`
 
-**Tip** - Your terminal emulator may allow you to paste text by right-clicking, and then selecting `Paste`.
+**Tip** - Your terminal emulator may allow you to paste text using one of the following methods:
+
+* middle-clicking
+* right-clicking, and then selecting `Paste`.
 
 ## Accessing the WITCH tab
 

@@ -39,10 +39,6 @@ If you are looking for a testing or developing environment, see
         - [To access the MAIN tab](#to-access-the-main-tab)
     - [Sending a message to all users in your current location](#sending-a-message-to-all-users-in-your-current-location)
         - [To send a message to all users in your current location](#to-send-a-message-to-all-users-in-your-current-location)
-    - [Copying text](#copying-text)
-        - [To copy text](#to-copy-text)
-    - [Pasting text](#pasting-text)
-        - [To paste text](#to-paste-text)
     - [Accessing the WITCH tab](#accessing-the-witch-tab)
         - [To access the WITCH tab](#to-access-the-witch-tab)
     - [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
@@ -51,6 +47,11 @@ If you are looking for a testing or developing environment, see
         - [To access the SETTINGS tab](#to-access-the-settings-tab)
     - [Quitting tildemush](#quitting-tildemush)
         - [To quit tildemush](#to-quit-tildemush)
+- [Extra tips](#extra-tips)
+    - [Copying text](#copying-text)
+        - [To copy text](#to-copy-text)
+    - [Pasting text](#pasting-text)
+        - [To paste text](#to-paste-text)
 - [Scripting with WITCH](#scripting-with-witch)
 - [More information](#more-information)
 
@@ -197,6 +198,7 @@ to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 # Using tildemush
 
 TODO: WIIFM
+
 TODO: Update this section outline as the headings are made
 
 - [Starting tildemush](#starting-tildemush)
@@ -240,31 +242,6 @@ The MAIN tab allows you to interact with users and objects. The MAIN tab is wher
 2. Type your message
 3. Press `Enter`
 
-## Copying text
-
-There are various ways to highlight text in the terminal, one of the easiest ways is to use your mouse.
-
-### To copy text
-
-1. Highlight the text you want to copy using your mouse
-2. Hold the `Shift` and `Ctrl` keys
-3. Press `c`
-4. Release the `Shift` and `Ctrl` keys
-
-## Pasting text
-
-[TODO]
-
-### To paste text
-
-1. Hold `Shift` and `Ctrl`
-2. Press `v` while holding down `Shift` and `Ctrl`
-
-**Tip** - Your terminal emulator may allow you to paste text using one of the following methods:
-
-* middle-clicking
-* right-clicking, and then selecting `Paste`.
-
 ## Accessing the WITCH tab
 
 [TODO]
@@ -297,9 +274,45 @@ Quitting tildemush will bring you back to your normal shell session on tilde.tow
 
 1. Press `F9`
 
+# Extra tips
+
+This section will describe useful actions for working in tildemush and the terminal.
+
+This section consists of:
+
+* Copying text
+* Pasting text
+
+## Copying text
+
+There are various ways to highlight text in the terminal, one of the easiest ways is to use your mouse.
+
+### To copy text
+
+1. Highlight the text you want to copy using your mouse
+2. Hold the `Shift` and `Ctrl` keys
+3. Press `c`
+4. Release the `Shift` and `Ctrl` keys
+
+## Pasting text
+
+[TODO]
+
+### To paste text
+
+1. Hold the `Shift` and `Ctrl` keys
+2. Press `v`
+3. Release the `Shift` and `Ctrl` keys
+
+**Tip** - Your terminal emulator may allow you to paste text using one of the following methods:
+
+* middle-clicking
+* right-clicking, and then selecting `Paste`.
+
 # Scripting with WITCH
 
 TODO: WIIFM
+
 TODO: Section outline
 
 # More information

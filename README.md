@@ -249,6 +249,30 @@ This section consists of the following subsections:
 
 TODO
 
+<!--TODO list for this section:
+/dig create a new room, assigning its ownership to the user
+/destroy destroy a created object
+/create fabricate a new object
+/clone create a copy of an object to transfer to another user
+/bless open up an object for scripting
+/anchor pins an object to a room. It can only be picked up again by the person who anchored it.
+/ignore ignore a player or object's messages
+/say audibly chat to your current room. default action for entered text.
+/yell be loud; chats to your current room, but other rooms hear indistinct yelling from your room. shortcut is **
+/emote use a predefined non-verbal action (potentially at another user) shortcut is !
+/whisper send a private message to a nearby user.  shortcut is .
+/do free-form "character does x"
+/get pick up an item in your current room
+/examine get item info for something in your current room or inventory; get info on a user
+/look get room info
+/drop drop an item
+/wear add something to your "is wearing" description
+/unwear remove something from your "is wearing" description
+/wield carry an item in your hands
+/unwield put away an item
+/quit end game socket session and quit client
+-->
+
 ## Starting tildemush
 
 Starting tildemush will run the software required to connect to the
@@ -278,6 +302,15 @@ The MAIN tab allows you to interact with users and objects. The MAIN tab is wher
 1. Ensure you are in the MAIN tab
 2. Type your message
 3. Press `Enter`
+
+**Tip**: You can also use the `/say` command to send a message to all users in your current
+location.
+
+**Example**:
+
+```
+/say hey there! can anyone hear me?
+```
 
 ## Quitting tildemush
 

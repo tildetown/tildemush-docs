@@ -61,6 +61,8 @@ If you are looking for a testing or developing environment, see
         - [To copy text](#to-copy-text)
     - [Pasting text](#pasting-text)
         - [To paste text](#to-paste-text)
+    - [Sharing your WITCH code](#sharing-your-witch-code)
+        - [To share your WITCH code](#to-share-your-witch-code)
 - [More information](#more-information)
 
 <!-- References and todos
@@ -431,4 +433,14 @@ There are various ways to highlight text in the terminal, one of the easiest way
 * middle-clicking
 * right-clicking, and then selecting `Paste`.
 
+## Sharing your WITCH code
+
+TODO: Significance to user
+
+### To share your WITCH code
+
+TODO: procedures
+
 # More information
+
+TODO

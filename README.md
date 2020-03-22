@@ -121,8 +121,15 @@ This section consists of the following subsections:
 
 - [Conventions used in this documentation](#conventions-used-in-this-documentation)
 - [Requirements](#requirements)
+- [Starting tildemush](#starting-tildemush)
+- [Creating a new user account](#creating-a-new-user-account)
+- [Logging in](#loggin-in)
+- [Resetting your password](#resetting-your-password)
+- [Configuring tildemush](#configuring-tildemush)
+- [Exiting from the start menu](#exiting-from-the-start-menu)
 
 ## Conventions used in this documentation
+
 * **Note** - Notes signify additional information
 * **Tip** - Tips signify an alternate procedure for completing a step
 * **Caution** - Cautions signify that damage or loss of data may occur
@@ -135,6 +142,63 @@ This section consists of the following subsections:
 ## Requirements
 
 * A [tilde.town](https://tilde.town) account
+
+## Starting tildemush
+
+Starting tildemush will run the software required to connect to the
+tildemush virtual community that exists on
+[tilde.town](https://tilde.town).
+
+### To start tildemush
+
+**Caution** - Before continuing, you should know that tildemush's
+database may be wiped at any time, because it is still under
+development. This means that anything you create, may be deleted at
+any time.
+
+1. `ssh` into [tilde.town](https://tilde.town)
+2. Run `tmclient`
+3. Press the `enter-key`
+
+## Creating a new user account
+
+TODO: Significance to user
+
+### To create a new user account
+
+TODO: procedures
+
+## Logging in
+
+TODO: Significance to user
+
+### To log in
+
+TODO: procedures
+
+## Resetting your password
+
+TODO: Significance to user
+
+### To reset your password
+
+TODO: procedures
+
+## Configuring tildemush
+
+TODO: Significance to user
+
+### To configure tildemush
+
+TODO: procedures
+
+## Exiting from the start menu
+
+TODO: Significance to user
+
+### To exit from the start menu
+
+TODO: procedures
 
 # Understanding the interface
 
@@ -279,26 +343,6 @@ This section consists of the following subsections:
 
 TODO
 
-## Starting tildemush
-
-Starting tildemush will run the software required to connect to the
-tildemush virtual community that exists on
-[tilde.town](https://tilde.town).
-
-### To start tildemush
-
-**Caution** - Before continuing, you should know that tildemush's
-database may be wiped at any time, because it is still under
-development. This means that anything you create, may be deleted at
-any time.
-
-1. `ssh` into [tilde.town](https://tilde.town)
-
-2. Run `tmclient`
-
-3. Use the `up-arrow`, `down-arrow`, and `enter-key` to login or
-   create an account
-
 ## Sending a message to all users in your current location
 
 The MAIN tab allows you to interact with users and objects. The MAIN tab is where you will communicate with other users.
@@ -333,6 +377,13 @@ TODO: Explain significance to user
 This section consists of the following subsections:
 
 TODO
+
+# Frequently asked questions
+
+TODO
+
+* **Is tildemush the same as IRC?**
+  * TODO: Answer
 
 # Extra tips
 

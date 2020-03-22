@@ -57,7 +57,7 @@ If you are looking for a testing or developing environment, see
 add before 'understanding the interface':
 https://github.com/vilmibm/tildemush/issues/158
 
-using tildemush:
+'using tildemush' todos:
 in-game commands: https://github.com/vilmibm/tildemush/blob/master/docs/client.md#in-game-commands
 break the following into subsections of 'using tildemush'
 /dig create a new room, assigning its ownership to the user
@@ -82,8 +82,10 @@ break the following into subsections of 'using tildemush'
 /unwield put away an item
 /quit end game socket session and quit client
 
--->
+'using witch' todos:
+https://github.com/vilmibm/tildemush/issues/157
 
+misc references:
 23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/witch_header.hy
 23:29 <vilmibm> there are also functioning WITCH examples in the test suite, for example,

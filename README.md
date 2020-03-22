@@ -52,8 +52,37 @@ If you are looking for a testing or developing environment, see
         - [To paste text](#to-paste-text)
 - [More information](#more-information)
 
-<!-- References
+<!-- References and todos
+
+add before 'understanding the interface':
+https://github.com/vilmibm/tildemush/issues/158
+
+using tildemush:
 in-game commands: https://github.com/vilmibm/tildemush/blob/master/docs/client.md#in-game-commands
+break the following into subsections of 'using tildemush'
+/dig create a new room, assigning its ownership to the user
+/destroy destroy a created object
+/create fabricate a new object
+/clone create a copy of an object to transfer to another user
+/bless open up an object for scripting
+/anchor pins an object to a room. It can only be picked up again by the person who anchored it.
+/ignore ignore a player or object's messages
+/say audibly chat to your current room. default action for entered text.
+/yell be loud; chats to your current room, but other rooms hear indistinct yelling from your room. shortcut is **
+/emote use a predefined non-verbal action (potentially at another user) shortcut is !
+/whisper send a private message to a nearby user.  shortcut is .
+/do free-form "character does x"
+/get pick up an item in your current room
+/examine get item info for something in your current room or inventory; get info on a user
+/look get room info
+/drop drop an item
+/wear add something to your "is wearing" description
+/unwear remove something from your "is wearing" description
+/wield carry an item in your hands
+/unwield put away an item
+/quit end game socket session and quit client
+
+-->
 
 23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/witch_header.hy
@@ -92,7 +121,6 @@ This section consists of the following subsections:
 - [Requirements](#requirements)
 
 ## Conventions used in this documentation
-
 * **Note** - Notes signify additional information
 * **Tip** - Tips signify an alternate procedure for completing a step
 * **Caution** - Cautions signify that damage or loss of data may occur
@@ -248,30 +276,6 @@ This section will teach you how to use tildemush and assumes you are familiar wi
 This section consists of the following subsections:
 
 TODO
-
-<!--TODO list for this section:
-/dig create a new room, assigning its ownership to the user
-/destroy destroy a created object
-/create fabricate a new object
-/clone create a copy of an object to transfer to another user
-/bless open up an object for scripting
-/anchor pins an object to a room. It can only be picked up again by the person who anchored it.
-/ignore ignore a player or object's messages
-/say audibly chat to your current room. default action for entered text.
-/yell be loud; chats to your current room, but other rooms hear indistinct yelling from your room. shortcut is **
-/emote use a predefined non-verbal action (potentially at another user) shortcut is !
-/whisper send a private message to a nearby user.  shortcut is .
-/do free-form "character does x"
-/get pick up an item in your current room
-/examine get item info for something in your current room or inventory; get info on a user
-/look get room info
-/drop drop an item
-/wear add something to your "is wearing" description
-/unwear remove something from your "is wearing" description
-/wield carry an item in your hands
-/unwield put away an item
-/quit end game socket session and quit client
--->
 
 ## Starting tildemush
 

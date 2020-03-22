@@ -1,5 +1,7 @@
 # Tildemush documentation
 
+TEST
+
 This documentation serves as a reference for
 [tilde.town](https://tilde.town)'s tildemush virtual community, lead
 by [vilmibm](https://tilde.town/~vilmibm/). It is intended for users who have an account on

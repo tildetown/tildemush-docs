@@ -53,6 +53,8 @@ If you are looking for a testing or developing environment, see
 - [More information](#more-information)
 
 <!-- References
+in-game commands: https://github.com/vilmibm/tildemush/blob/master/docs/client.md#in-game-commands
+
 23:28 <vilmibm> m455: re: the conversation in tush: it's a little hard to read but you can get a good idea of what WITCH provides here:
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/witch_header.hy
 23:29 <vilmibm> there are also functioning WITCH examples in the test suite, for example,
@@ -77,9 +79,12 @@ tildemush looks like a chat room with elements such as:
 
 # Purpose and goals
 
-TODO:[For vilmibm, if they are comfortable with filling this out. Go all out!]
+TODO for vilmibm
 
 # Getting started
+
+This section describes conventions, which will help you understand the formatting used in this
+document, and the requirements for using tildemush.
 
 This section consists of the following subsections:
 
@@ -144,7 +149,7 @@ The location box will display the following:
 
 The map box will display the following:
 
-* TODO: Verify if these are the places you have visited or all places that connect to the current location
+TODO: Verify if these are the places you have visited or all places that connect to the current location
 
 ### The inventory box
 
@@ -196,6 +201,13 @@ to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 
 This section will provide information on each tildemush tab and teach you how to access each tildemush tab.
 
+This section consists of the following subsections:
+
+* [Accessing the MAIN tab](#accessing-the-main-tab)
+* [Accessing the WITCH tab](#accessing-the-witch-tab)
+* [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
+* [Accessing the SETTINGS tab](#accessing-the-settings-tab)
+
 ## Accessing the MAIN tab
 
 The MAIN tab can be accessed from any of the tabs.
@@ -230,12 +242,12 @@ The SETTINGS tab is under development.
 
 # Using tildemush
 
-TODO: Explain significance of this section
+This section will teach you how to use tildemush and assumes you are familiar with
+[tildemush's interface](#understanding-the-interface).
 
-TODO: Update this section outline as the headings are made
+This section consists of the following subsections:
 
-- [Starting tildemush](#starting-tildemush)
-    - [To start tildemush](#to-start-tildemush)
+TODO
 
 ## Starting tildemush
 
@@ -277,9 +289,11 @@ Quitting tildemush will bring you back to your normal shell session on tilde.tow
 
 # Scripting with WITCH
 
-TODO: WIIFM
+TODO: Explain significance to user
 
-TODO: Section outline
+This section consists of the following subsections:
+
+TODO
 
 # Extra tips
 

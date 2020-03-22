@@ -48,12 +48,12 @@ If you are looking for a testing or developing environment, see
         - [To send a message to all users in your current location](#to-send-a-message-to-all-users-in-your-current-location)
     - [Quitting tildemush](#quitting-tildemush)
         - [To quit tildemush](#to-quit-tildemush)
+- [Scripting with WITCH](#scripting-with-witch)
 - [Extra tips](#extra-tips)
     - [Copying text](#copying-text)
         - [To copy text](#to-copy-text)
     - [Pasting text](#pasting-text)
         - [To paste text](#to-paste-text)
-- [Scripting with WITCH](#scripting-with-witch)
 - [More information](#more-information)
 
 <!-- References
@@ -279,6 +279,12 @@ Quitting tildemush will bring you back to your normal shell session on tilde.tow
 
 1. Press `F9`
 
+# Scripting with WITCH
+
+TODO: WIIFM
+
+TODO: Section outline
+
 # Extra tips
 
 This section will describe useful actions for working in tildemush and the terminal.
@@ -313,11 +319,5 @@ There are various ways to highlight text in the terminal, one of the easiest way
 
 * middle-clicking
 * right-clicking, and then selecting `Paste`.
-
-# Scripting with WITCH
-
-TODO: WIIFM
-
-TODO: Section outline
 
 # More information

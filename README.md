@@ -189,7 +189,7 @@ Direction names are user-created names that a user can type to travel to differe
 
 ## SETTINGS tab
 
-The SETTINGS tab is under construction.
+The SETTINGS tab is under development.
 
 ## QUIT tab
 
@@ -198,7 +198,7 @@ to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 
 # Accessing tabs
 
-TODO
+This section will provide information on each tildemush tab and teach you how to access each tildemush tab.
 
 ## Accessing the MAIN tab
 
@@ -210,7 +210,7 @@ The MAIN tab can be accessed from any of the tabs.
 
 ## Accessing the WITCH tab
 
-[TODO]
+The WITCH tab provides an interface for creating objects.
 
 ### To access the WITCH tab
 
@@ -218,7 +218,7 @@ The MAIN tab can be accessed from any of the tabs.
 
 ## Accessing the WORLDMAP tab
 
-[TODO]
+The WORLDMAP tab provides visuals on how all locations are connected.
 
 ### To access the WORLDMAP tab
 
@@ -226,7 +226,7 @@ The MAIN tab can be accessed from any of the tabs.
 
 ## Accessing the SETTINGS tab
 
-[TODO]
+The SETTINGS tab is under development.
 
 ### To access the SETTINGS tab
 
@@ -234,7 +234,7 @@ The MAIN tab can be accessed from any of the tabs.
 
 # Using tildemush
 
-TODO: WIIFM
+TODO: Explain significance of this section
 
 TODO: Update this section outline as the headings are made
 

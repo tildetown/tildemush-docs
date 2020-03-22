@@ -11,9 +11,9 @@ If you are looking for a testing or developing environment, see
 
 - [What is tildemush?](#what-is-tildemush)
 - [Purpose and goals](#purpose-and-goals)
+- [Conventions used in this documentation](#conventions-used-in-this-documentation)
+- [Requirements](#requirements)
 - [Getting started](#getting-started)
-    - [Conventions used in this documentation](#conventions-used-in-this-documentation)
-    - [Requirements](#requirements)
     - [Starting tildemush](#starting-tildemush)
         - [To start tildemush](#to-start-tildemush)
     - [Creating a new user account](#creating-a-new-user-account)
@@ -125,23 +125,7 @@ tildemush looks like a chat room with elements such as:
 
 TODO for vilmibm
 
-# Getting started
-
-This section describes conventions, which will help you understand the formatting used in this
-document, and the requirements for using tildemush.
-
-This section consists of the following subsections:
-
-- [Conventions used in this documentation](#conventions-used-in-this-documentation)
-- [Requirements](#requirements)
-- [Starting tildemush](#starting-tildemush)
-- [Creating a new user account](#creating-a-new-user-account)
-- [Logging in](#loggin-in)
-- [Resetting your password](#resetting-your-password)
-- [Configuring tildemush](#configuring-tildemush)
-- [Exiting from the start menu](#exiting-from-the-start-menu)
-
-## Conventions used in this documentation
+# Conventions used in this documentation
 
 * **Note** - Notes signify additional information
 * **Tip** - Tips signify an alternate procedure for completing a step
@@ -152,9 +136,23 @@ This section consists of the following subsections:
 * Section - Heading 1s are referred to as "Sections"
 * subsections - Heading 2s, 3s, etc. are referred to as "subsections"
 
-## Requirements
+# Requirements
 
 * A [tilde.town](https://tilde.town) account
+
+# Getting started
+
+This section describes conventions, which will help you understand the formatting used in this
+document, and the requirements for using tildemush.
+
+This section consists of the following subsections:
+
+- [Starting tildemush](#starting-tildemush)
+- [Creating a new user account](#creating-a-new-user-account)
+- [Logging in](#loggin-in)
+- [Resetting your password](#resetting-your-password)
+- [Configuring tildemush](#configuring-tildemush)
+- [Exiting from the start menu](#exiting-from-the-start-menu)
 
 ## Starting tildemush
 
@@ -171,7 +169,7 @@ any time.
 
 1. `ssh` into [tilde.town](https://tilde.town)
 2. Run `tmclient`
-3. Press the `enter-key`
+3. Press the `enter` key
 
 ## Creating a new user account
 

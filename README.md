@@ -223,7 +223,7 @@ The main tab consists of:
 
 * The inventory box, which contains:
   * Number of objects you have
-  * Name(s) of objects you have
+  * Names of objects you have
 
 ## Accessing the MAIN tab
 

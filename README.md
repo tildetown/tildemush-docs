@@ -26,29 +26,19 @@ If you are looking for a testing or developing environment, see
         - [To configure tildemush](#to-configure-tildemush)
     - [Exiting from the start menu](#exiting-from-the-start-menu)
         - [To exit from the start menu](#to-exit-from-the-start-menu)
-- [Understanding the interface](#understanding-the-interface)
-    - [MAIN tab](#main-tab)
-        - [The chatbox](#the-chatbox)
-        - [The location box](#the-location-box)
-        - [The map box](#the-map-box)
-        - [The inventory box](#the-inventory-box)
-    - [WITCH tab](#witch-tab)
-        - [The object pane](#the-object-pane)
-        - [The object-scripting pane](#the-object-scripting-pane)
-    - [WORLDMAP tab](#worldmap-tab)
-        - [Area blocks](#area-blocks)
-        - [Direction names](#direction-names)
-    - [SETTINGS tab](#settings-tab)
-    - [QUIT tab](#quit-tab)
-- [Accessing tabs](#accessing-tabs)
+- [MAIN tab](#main-tab)
     - [Accessing the MAIN tab](#accessing-the-main-tab)
         - [To access the MAIN tab](#to-access-the-main-tab)
+- [WITCH tab](#witch-tab)
     - [Accessing the WITCH tab](#accessing-the-witch-tab)
         - [To access the WITCH tab](#to-access-the-witch-tab)
+    - [WORLDMAP tab](#worldmap-tab)
     - [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
         - [To access the WORLDMAP tab](#to-access-the-worldmap-tab)
+    - [SETTINGS tab](#settings-tab)
     - [Accessing the SETTINGS tab](#accessing-the-settings-tab)
         - [To access the SETTINGS tab](#to-access-the-settings-tab)
+- [QUIT tab](#quit-tab)
 - [Using tildemush](#using-tildemush)
     - [Sending a message to all users in your current location](#sending-a-message-to-all-users-in-your-current-location)
         - [To send a message to all users in your current location](#to-send-a-message-to-all-users-in-your-current-location)
@@ -212,107 +202,28 @@ TODO: Significance to user
 
 TODO: procedures
 
-# Understanding the interface
-
-This section will introduce you to each interface tab, and each element inside of each tab.
-
-This section consists of the following subsections:
-
-- [MAIN tab](#main-tab)
-- [WITCH tab](#witch-tab)
-- [WORLDMAP tab](#worldmap-tab)
-- [SETTINGS tab](#settings-tab)
-- [QUIT tab](#quit-tab)
-
-## MAIN tab
+# MAIN tab
 
 The main tab consists of:
 
-* The chat box
-* The location box
-* The map box
-* The inventory box
+* The chat box, which contains:
+  * User messages
+  * Events
+  * Actions from users
+  * Actions from objects
+  * Responses from objects
 
-### The chatbox
+* The location box, which contains:
+  * Your current location's name
+  * Your current location's description
+  * Your current location's user-created objects
 
-The chat box will display the following:
+* The map box, which contains:
+  * TODO: Verify if these are the places you have visited or all places that connect to the current location
 
-* User messages
-* Events
-* Actions from users
-* Actions from objects
-* Responses from objects
-
-### The location box
-
-The location box will display the following:
-
-* Your current location's name
-* Your current location's description
-* Your current location's user-created objects
-
-### The map box
-
-The map box will display the following:
-
-TODO: Verify if these are the places you have visited or all places that connect to the current location
-
-### The inventory box
-
-The inventory box will display the following:
-
-* Number of objects you have
-* Name(s) of objects you have
-
-## WITCH tab
-
-The WITCH tab consists of:
-
-* The object pane
-* The object-scripting pane
-
-### The object pane
-
-The object pane displays the name and permissions of the object that is being edited.
-
-### The object-scripting pane
-
-The object-scripting pane displays the scripts of the object that is being edited. This is the area you will edit the functionality of an object.
-
-## WORLDMAP tab
-
-The WORLDMAP tab consists of:
-
-* Area blocks
-* Direction names
-
-### Area blocks
-
-Area blocks are user-created locations you can travel to in the tildemush world.
-
-### Direction names
-
-Direction names are user-created names that a user can type to travel to different area blocks.
-
-## SETTINGS tab
-
-The SETTINGS tab is under development.
-
-## QUIT tab
-
-The QUIT tab does not contain elements. It serves as a reminder of how
-to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
-
-# Accessing tabs
-
-This section will provide information on each tildemush tab and teach you how to access each tildemush tab.
-
-This section consists of the following subsections:
-
-* [Accessing the MAIN tab](#accessing-the-main-tab)
-* [Accessing the WITCH tab](#accessing-the-witch-tab)
-* [Accessing the WORLDMAP tab](#accessing-the-worldmap-tab)
-* [Accessing the SETTINGS tab](#accessing-the-settings-tab)
+* The inventory box, which contains:
+  * Number of objects you have
+  * Name(s) of objects you have
 
 ## Accessing the MAIN tab
 
@@ -322,6 +233,13 @@ The MAIN tab can be accessed from any of the tabs.
 
 1. Press `F1`
 
+# WITCH tab
+
+The WITCH tab consists of:
+
+* The object pane, which displays the name and permissions of the object that is being edited.
+* The object-scripting pane, which displays the scripts of the object that is being edited. This is the area you will edit the functionality of an object.
+
 ## Accessing the WITCH tab
 
 The WITCH tab provides an interface for creating objects.
@@ -329,6 +247,14 @@ The WITCH tab provides an interface for creating objects.
 ### To access the WITCH tab
 
 1. Press `F2`
+
+## WORLDMAP tab
+
+The WORLDMAP tab consists of:
+
+* Area blocks, which are user-created locations you can travel to in the MAIN tab.
+* Direction names, which are user-created names that a user can type to travel to different area
+  blocks in the MAIN tab
 
 ## Accessing the WORLDMAP tab
 
@@ -338,6 +264,10 @@ The WORLDMAP tab provides visuals on how all locations are connected.
 
 1. Press `F3`
 
+## SETTINGS tab
+
+The SETTINGS tab is under development.
+
 ## Accessing the SETTINGS tab
 
 The SETTINGS tab is under development.
@@ -345,6 +275,11 @@ The SETTINGS tab is under development.
 ### To access the SETTINGS tab
 
 1. Press `F4`
+
+# QUIT tab
+
+The QUIT tab does not contain elements. It serves as a reminder of how
+to quit tildemush. See the [Quitting tildemush](#quitting-tildemush) subsection.
 
 # Using tildemush
 

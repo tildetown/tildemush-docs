@@ -55,7 +55,6 @@ If you are looking for a testing or developing environment, see
     - [Quitting tildemush](#quitting-tildemush)
         - [To quit tildemush](#to-quit-tildemush)
 - [Scripting with WITCH](#scripting-with-witch)
-- [Frequently asked questions](#frequently-asked-questions)
 - [Extra tips](#extra-tips)
     - [Copying text](#copying-text)
         - [To copy text](#to-copy-text)
@@ -63,7 +62,7 @@ If you are looking for a testing or developing environment, see
         - [To paste text](#to-paste-text)
     - [Sharing your WITCH code](#sharing-your-witch-code)
         - [To share your WITCH code](#to-share-your-witch-code)
-- [More information](#more-information)
+- [Frequently asked questions](#frequently-asked-questions)
 
 <!-- References and todos
 
@@ -389,13 +388,6 @@ This section consists of the following subsections:
 
 TODO
 
-# Frequently asked questions
-
-TODO
-
-* **Is tildemush the same as IRC?**
-  * TODO: Answer
-
 # Extra tips
 
 This section will describe useful actions for working in tildemush and the terminal.
@@ -439,6 +431,9 @@ TODO: Significance to user
 
 TODO: procedures
 
-# More information
+# Frequently asked questions
 
 TODO
+
+* **Is tildemush the same as IRC?**
+  * TODO: *Answer*

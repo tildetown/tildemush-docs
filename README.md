@@ -132,7 +132,7 @@ TODO for vilmibm
 * **Tip** - Tips signify an alternate procedure for completing a step
 * **Caution** - Cautions signify that damage or loss of data may occur
 * **Example** - Examples provide a visual reference of how a procedure would be performed
-* `Inline code` - Inline code signifies package names, filenames, commands, and keyboard keys
+* `Inline code` - Inline code signifies package names, filenames, commands, and `<keyboard keys>`
 * ```Code block - Code blocks signify file contents, or an interface element```
 * Section - Heading 1s are referred to as "Sections"
 * subsections - Heading 2s, 3s, etc. are referred to as "subsections"
@@ -170,7 +170,7 @@ any time.
 
 1. `ssh` into [tilde.town](https://tilde.town)
 2. Run `tmclient`
-3. Press the `enter` key
+3. Press `<Enter>`
 
 ## Creating a new user account
 
@@ -363,7 +363,7 @@ The MAIN tab allows you to interact with users and objects. The MAIN tab is wher
 
 1. Ensure you are in the MAIN tab
 2. Type your message
-3. Press `Enter`
+3. Press `<Enter>`
 
 **Tip**: You can also use the `/say` command to send a message to all users in your current
 location.

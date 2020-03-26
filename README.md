@@ -132,7 +132,8 @@ TODO for vilmibm
 * **Tip** - Tips signify an alternate procedure for completing a step
 * **Caution** - Cautions signify that damage or loss of data may occur
 * **Example** - Examples provide a visual reference of how a procedure would be performed
-* `Inline code` - Inline code signifies package names, filenames, commands, and `<keyboard keys>`
+* `Inline code` - Inline code signifies package names, filenames, and commands
+* `<Keyboard keys>` Keyboard keys signify a key the user presses or holds
 * ```Code block - Code blocks signify file contents, or an interface element```
 * Section - Heading 1s are referred to as "Sections"
 * subsections - Heading 2s, 3s, etc. are referred to as "subsections"

@@ -1,11 +1,10 @@
 # Tildemush documentation
 
-This documentation serves as a reference for
+This document serves as a reference for [tildemush](https://github.com/vilmibm/tildemush),
 [tilde.town](https://tilde.town)'s tildemush virtual community, lead
-by [vilmibm](https://tilde.town/~vilmibm/). It is intended for users who have an account on
-[tilde.town](https://tilde.town).
-If you are looking for a testing or developing environment, see
-[vilmibm](https://github.com/vilmibm)'s notes [here](https://github.com/vilmibm/tildemush)
+by [vilmibm](https://tilde.town/~vilmibm/).
+
+This document is for users who have an account on [tilde.town](https://tilde.town).
 
 # Table of contents
 

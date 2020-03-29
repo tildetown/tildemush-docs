@@ -1,15 +1,25 @@
 # Tildemush documentation
 
-This document serves as a reference for [tildemush](https://github.com/vilmibm/tildemush),
-[tilde.town](https://tilde.town)'s tildemush virtual community, lead
-by [vilmibm](https://tilde.town/~vilmibm/).
+tildemush is a text-based, programmatic virtual community on the command line. tildemush aims to
+provide an environment for creativity, imagination, and art. Currently, tildemush hosted on
+[tilde.town](https://tilde.town).
 
-This document is for users who have an account on [tilde.town](https://tilde.town).
+tildemush may look like a chat room, but it is completely programmable, and includes other elements
+such as:
+
+* Locations that can be traversed by users
+* User-scripted objects that users can interact with
+* User inventory and apparel
+* A scripting tab for creating objects
+* and many more
+
+# Purpose and goals
+
+TODO for vilmibm
 
 # Table of contents
 
-- [What is tildemush?](#what-is-tildemush)
-- [Purpose and goals](#purpose-and-goals)
+- [About this document](#about-this-document)
 - [Conventions used in this documentation](#conventions-used-in-this-documentation)
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
@@ -63,6 +73,10 @@ This document is for users who have an account on [tilde.town](https://tilde.tow
         - [To share your WITCH code](#to-share-your-witch-code)
 - [Frequently asked questions](#frequently-asked-questions)
 
+<!-- markdown-toc end -->
+
+
+
 <!-- References and todos
 
 add before 'understanding the interface':
@@ -106,24 +120,13 @@ misc references:
                 https://github.com/vilmibm/tildemush/blob/master/server/tmserver/tests/async_test.py
 -->
 
-# What is tildemush?
+# About this document
 
-tildemush is a text-based, programmatic virtual community on the command line. tildemush aims to
-provide an environment for creativity, imagination, and art. Currently, tildemush hosted on
-[tilde.town](https://tilde.town).
+This document serves as a reference for [tildemush](https://github.com/vilmibm/tildemush),
+[tilde.town](https://tilde.town)'s tildemush virtual community, lead
+by [vilmibm](https://tilde.town/~vilmibm/).
 
-tildemush may look like a chat room, but it is completely programmable, and includes other elements
-such as:
-
-* Locations that can be traversed by users
-* User-scripted objects that users can interact with
-* User inventory and apparel
-* A scripting tab for creating objects
-* and many more
-
-# Purpose and goals
-
-TODO for vilmibm
+This document is for users who have an account on [tilde.town](https://tilde.town).
 
 # Conventions used in this documentation
 

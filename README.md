@@ -4,15 +4,6 @@ tildemush is a text-based, programmatic virtual community on the command line. t
 provide an environment for creativity, imagination, and art. Currently, tildemush hosted on
 [tilde.town](https://tilde.town).
 
-tildemush may look like a chat room, but it is completely programmable, and includes other elements
-such as:
-
-* Locations that can be traversed by users
-* User-scripted objects that users can interact with
-* User inventory and apparel
-* A scripting tab for creating objects
-* and many more
-
 # Purpose and goals
 
 TODO for vilmibm

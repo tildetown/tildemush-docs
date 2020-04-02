@@ -137,8 +137,7 @@ This document is for users who have an account on [tilde.town](https://tilde.tow
 
 # Getting started
 
-This section describes conventions, which will help you understand the formatting used in this
-document, and the requirements for using tildemush.
+TODO
 
 This section consists of the following subsections:
 

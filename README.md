@@ -6,7 +6,7 @@ provide an environment for creativity, imagination, and art. Currently, tildemus
 
 # Purpose and goals
 
-TODO for vilmibm.
+TODO for vilmibm
 
 # Table of contents
 
